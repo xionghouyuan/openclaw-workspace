@@ -29,6 +29,16 @@ Things like:
 
 - Preferred voice: "Nova" (warm, slightly British)
 - Default speaker: Kitchen HomePod
+
+### Network Proxy (Mihomo)
+
+- Config: `~/.config/mihomo/config.yaml`
+- Binary: `/usr/local/bin/mihomo` (v1.19.22)
+- Mixed port: `127.0.0.1:7890` (HTTP/SOCKS5 proxy)
+- REST API: `http://127.0.0.1:9090`
+- Subscription: `https://ccsub.pz.pe/subscribe/Q4XLI2SI5ZN17SNJ`
+- Startup: `nohup mihomo -d ~/.config/mihomo/ > ~/.config/mihomo/mihomo.log 2>&1 &`
+- Enable at login: add to startup applications or systemd
 ```
 
 ## Why Separate?
