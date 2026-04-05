@@ -1,0 +1,10 @@
+[2026-04-05 02:56:39] Proxy port not responding (http 400), restarting mihomo...
+[2026-04-05 02:56:45] Mihomo restarted successfully (pid 39206)
+[2026-04-05 02:57:22] Mihomo OK (pid 39206, proxy working)
+[2026-04-05 03:00:03] Mihomo OK (pid 39206, proxy working)
+[2026-04-05 03:05:02] Mihomo OK (pid 39206, proxy working)
+[2026-04-05 03:10:01] Mihomo OK (pid 39206, proxy working)
+[2026-04-05 03:15:02] Mihomo not running, starting...
+[2026-04-05 03:15:05] Mihomo started (pid 42072)
+[2026-04-05 14:00:22] Mihomo not running, starting...
+[2026-04-05 14:00:25] Mihomo started (pid 935)

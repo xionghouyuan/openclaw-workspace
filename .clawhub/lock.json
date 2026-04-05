@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1775328089764
+    },
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1775328099665
+    },
+    "self-improving-proactive-agent": {
+      "version": "1.0.0",
+      "installedAt": 1775328109104
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1775328118046
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1775328123888
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1775328131035
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1775328136830
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1775328276019
+    }
+  }
+}

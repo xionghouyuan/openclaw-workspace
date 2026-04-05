@@ -1,0 +1,2 @@
+# Exclude large session data (backup separately via cron)
+# sessions/ directory is backed up via git-push script
