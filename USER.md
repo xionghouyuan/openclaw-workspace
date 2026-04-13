@@ -8,4 +8,5 @@
 
 ## Context
 
-_(Build this over time as I learn more about 熊老大.)_
+- **本机系统：** Windows（macOS 上的 VMware 跑 Linux）
+- OpenClaw gateway 跑在 VMware Linux 里，PocketClaw 客户端在 macOS 上连接

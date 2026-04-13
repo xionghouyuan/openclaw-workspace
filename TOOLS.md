@@ -47,4 +47,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## Accounts
+
+### Google
+- Email: crackwedding844@gmail.com
+- Password: mintsy@23
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.

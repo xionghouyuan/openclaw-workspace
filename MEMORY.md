@@ -9,6 +9,8 @@
 - Name: 熊老大
 - Timezone: Asia/Shanghai (GMT+8)
 - SSH/git setup known
+- **本机系统：Windows**（macOS 上的 VMware 跑 Linux，OpenClaw gateway 在 Linux 里）
+- Linux sudo/root 密码：`xhy0804.`（注意后面有句号）
 
 ## Key Experience
 
