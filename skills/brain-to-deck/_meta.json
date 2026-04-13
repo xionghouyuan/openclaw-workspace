@@ -1,0 +1,8 @@
+{
+  "name": "brain-to-deck",
+  "description": "Turn any messy inputs (text, files, images, PDF, CSV) into structured PPTX/HTML/PDF presentation materials with Bain consulting style.",
+  "version": "1.0.0",
+  "author": "yongqing01",
+  "source": "https://github.com/yongqing01/brain-to-deck",
+  "tags": ["presentation", "pptx", "html", "pdf", "bain", "consulting", "brain-dump", "slides"]
+}
